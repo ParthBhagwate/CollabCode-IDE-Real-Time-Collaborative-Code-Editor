@@ -1,0 +1,1 @@
+CollabCode IDE is a real-time collaborative code editor designed for seamless teamwork. It enables multiple developers to code together with live editing, instant synchronization, and built-in productivity tools. Experience coding that feels natural, fast, and truly collaborative.
